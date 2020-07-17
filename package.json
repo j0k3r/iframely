@@ -27,7 +27,7 @@
         "send":         "0.1.0",
         "connect":      "2.7.9",
         "ejs":          "0.8.4",
-        "moment":       "2.0",
+        "moment":       "2.27",
         "chokidar":     "0.6.3",
         "jsontoxml":    "0.0.11",
 
